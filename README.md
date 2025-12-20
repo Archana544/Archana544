@@ -105,8 +105,8 @@ I’m a Software Engineer with **3+ years of experience** building scalable full
 ## 📫 Let’s Connect
 
 - **GitHub:** https://github.com/Archana544  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK  
-- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/archana-chukkannagari-45aa951b9/ 
+- **Email:** archanach544@gmail.com
 
 ---
 
