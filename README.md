@@ -26,7 +26,9 @@ Cloud & DevOps: Microsoft Azure (Container Apps, Blob Storage, Cognitive Service
 ## 📂 Featured Projects
 
 • Hugging Face Computer Vision Agent (PyTorch + Gradio + Hugging Face Spaces): Built and deployed an NTS-Net fine-grained bird classification agent with live demo + public API.
+
 • AI Document Intelligence Platform (Django REST Framework + OpenAI API + JWT + Swagger): Built a backend system for secure PDF upload, text extraction, and conversational querying using a custom RAG pipeline with embeddings-based semantic search and LLM response generation, structured with modular architecture and production-ready API documentation.
+
 •AutrakAI : Developed an AI agent marketplace using React.js and TypeScript, enabling secure discovery, installation, and management of intelligent agents.Built Node.js and Express backend APIs supporting agent workflows, RBAC authentication, and scalable AI-driven services.Implemented RAG-style semantic retrieval, vector-based search pipelines for intelligent agent interaction & metadata querying.
 
 
