@@ -14,10 +14,15 @@ I’m a Software Engineer with **3+ years of experience** building scalable full
 ## 🛠 Technical Skills
 
 Frontend & UI Development: React.js, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, Responsive Web Design, Component-Based Architecture, and UI performance optimization.
+
 Backend & API Development: Python, Django REST Framework, Node.js, Express.js, REST API design, JWT authentication, and secure authorization mechanisms.
+
 AI & Machine Learning Integration: Developed an AI Document Intelligence Platform supporting secure document ingestion, text extraction, Retrieval-Augmented Generation (RAG) pipelines, vector-based semantic search, and LLM-powered conversational querying.
+
 Databases: PostgreSQL, MongoDB, SQL/NoSQL data modeling, query optimization, and structured metadata management.
+
 Testing & Debugging: Unit and integration testing using Jest, React Testing Library, and Postman.
+
 Cloud & DevOps: Microsoft Azure (Container Apps, Blob Storage, Cognitive Services), Docker-based containerization, Git/GitHub version control, and production-ready deployment pipeline design, AWS
 
 
