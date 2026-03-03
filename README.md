@@ -7,98 +7,28 @@ I’m a Software Engineer with **3+ years of experience** building scalable full
 
 ## 👩‍💻 Professional Summary
 
-- 3+ years of experience in **Full-Stack Development**
-- Strong experience with **React.js, Golang, Node.js**
-- Mobile app development using **iOS (Swift, Xcode)** and **React Native**
-- Experience designing **microservices, REST APIs, and cloud-ready systems**
-- Hands-on with **AI / LLM integrations, agent workflows, and automation**
-- Passionate about **clean UI/UX, performance, and scalable system design**
+-Software Engineer with 3+ years of experience building scalable full-stack and AI-driven applications using React.js, Node.js,Typescript and Python. Strong in REST API design with Django REST Framework, JWT authentication, and SQL/NoSQL databases, delivering systems from development and testing through containerized cloud deployment. Built an AI Document Intelligence Platform implementing secure document ingestion and a custom RAG pipeline for semantic search & LLM-powered querying.
 
 ---
 
 ## 🛠 Technical Skills
 
-### Frontend
-- React.js, Next.js
-- JavaScript, TypeScript
-- HTML5, CSS3
-- Redux
+Frontend & UI Development: React.js, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, Responsive Web Design, Component-Based Architecture, and UI performance optimization.
+Backend & API Development: Python, Django REST Framework, Node.js, Express.js, REST API design, JWT authentication, and secure authorization mechanisms.
+AI & Machine Learning Integration: Developed an AI Document Intelligence Platform supporting secure document ingestion, text extraction, Retrieval-Augmented Generation (RAG) pipelines, vector-based semantic search, and LLM-powered conversational querying.
+Databases: PostgreSQL, MongoDB, SQL/NoSQL data modeling, query optimization, and structured metadata management.
+Testing & Debugging: Unit and integration testing using Jest, React Testing Library, and Postman.
+Cloud & DevOps: Microsoft Azure (Container Apps, Blob Storage, Cognitive Services), Docker-based containerization, Git/GitHub version control, and production-ready deployment pipeline design, AWS
 
-### Backend
-- Golang
-- Node.js
-- REST APIs
-- Microservices Architecture
-
-### Mobile Development
-- iOS (Swift, Xcode)
-- Android
-- React Native
-
-### AI & Cloud
-- LLM integrations
-- AI agent workflows
-- AWS
-- Docker
-- CI/CD
-- Firebase
-
-### Tools
-- Git & GitHub
-- Postman
-- VS Code
-- Xcode
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 PROJECT / INTERNSHIP: AI Agent Platform (AI-AUTRAK)
+• Hugging Face Computer Vision Agent (PyTorch + Gradio + Hugging Face Spaces): Built and deployed an NTS-Net fine-grained bird classification agent with live demo + public API.
+• AI Document Intelligence Platform (Django REST Framework + OpenAI API + JWT + Swagger): Built a backend system for secure PDF upload, text extraction, and conversational querying using a custom RAG pipeline with embeddings-based semantic search and LLM response generation, structured with modular architecture and production-ready API documentation.
+•AutrakAI : Developed an AI agent marketplace using React.js and TypeScript, enabling secure discovery, installation, and management of intelligent agents.Built Node.js and Express backend APIs supporting agent workflows, RBAC authentication, and scalable AI-driven services.Implemented RAG-style semantic retrieval, vector-based search pipelines for intelligent agent interaction & metadata querying.
 
-**AI-powered agent orchestration platform**
-
-- Built **React.js UI** for a secure AI service store to browse, install, and manage agents
-- Designed **Rust-based Agent Runtime** for LLM orchestration, session lifecycle, and memory vault
-- Implemented **cross-platform IPC** with Android using **JNI/AIDL** and encrypted communication
-- Enabled **real-time inference streaming** and LangFlow-style agent workflow execution
-- Integrated multiple AI models to power **autonomous decision-making and secure AI OS layers**
-
-🔗 Repo: https://github.com/Archana544/AI-AUTRAK
-
----
-
-### 🔹 Rent a Bike – iOS Application  
-
-**Mobile bike rental application**
-
-- Developed using **Swift & Xcode**
-- Integrated **Firebase Authentication and Firestore**
-- Designed clean, intuitive UI with smooth booking flow
-- Implemented bike listings, user management, and rental workflows
-
-🔗 Repo: https://github.com/Archana544/Rent_a_bike_IOS
-
----
-
-### 🔹 Nature Walk – iOS Application  
-
-**Travel & nature exploration mobile app**
-
-- Built using **Swift and Xcode**
-- Integrated **Firebase backend**
-- Focused on performance, responsiveness, and clean mobile UI
-- Applied iOS UI/UX best practices for smooth navigation
-
-🔗 Repo: https://github.com/Archana544/Nature_walk_ios_app
-
----
-
-## 🚀 What I’m Currently Working On
-
-- AI-powered applications using **LLMs and agent workflows**
-- Full-stack systems with **Golang & React**
-- Improving **DevOps, Docker, and cloud deployment** skills
-- Enhancing **mobile app performance and UX**
 
 ---
 
