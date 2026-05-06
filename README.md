@@ -64,7 +64,7 @@ Deployed an NTS-Net fine-grained bird classification agent with live Gradio demo
 |------|---------|--------|
 | AI Platform Engineer (Co-op) | George Brown Polytechnic College | Aug 2025 – Dec 2025 |
 | Associate Software Engineer | XRG Consulting Pvt Ltd | Apr 2023 – Apr 2024 |
-| Junior Server Developer | XRG Consulting Pvt Ltd | Mar 2022 – Mar 2023 |
+| Junior Server Developer | XRG Consulting Pvt Ltd | April 2021 – Mar 2023 |
 
 ---
 
