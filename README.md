@@ -1,50 +1,101 @@
-# Hi, I'm Archana 👋  
-**Software Engineer | Full-Stack | Mobile | AI**
+# Hi, I'm Archana Chukkannagari 👋
 
-I’m a Software Engineer with **3+ years of experience** building scalable full-stack applications, mobile apps, and AI-powered systems. I enjoy solving real-world problems through clean architecture, thoughtful UI, and efficient backend systems.
+**Software Engineer · Full-Stack · AI/ML · Backend**
 
----
-
-## 👩‍💻 Professional Summary
-
--Software Engineer with 3+ years of experience building scalable full-stack and AI-driven applications using React.js, Node.js,Typescript and Python. Strong in REST API design with Django REST Framework, JWT authentication, and SQL/NoSQL databases, delivering systems from development and testing through containerized cloud deployment. Built an AI Document Intelligence Platform implementing secure document ingestion and a custom RAG pipeline for semantic search & LLM-powered querying.
+Toronto, ON · [LinkedIn](https://www.linkedin.com/in/archana-chukkannagari-45aa951b9) · [Portfolio](https://archanaportfolio-ruby.vercel.app/) · archanach544@gmail.com
 
 ---
 
-## 🛠 Technical Skills
+## About Me
 
-Frontend & UI Development: React.js, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, Responsive Web Design, Component-Based Architecture, and UI performance optimization.
+Software Engineer with 3+ years of experience building and owning full-stack and AI-driven systems end-to-end — from backend service design and database modeling through containerized deployment and production monitoring.
 
-Backend & API Development: Python, Django REST Framework, Node.js, Express.js, REST API design, JWT authentication, and secure authorization mechanisms.
-
-AI & Machine Learning Integration: Developed an AI Document Intelligence Platform supporting secure document ingestion, text extraction, Retrieval-Augmented Generation (RAG) pipelines, vector-based semantic search, and LLM-powered conversational querying.
-
-Databases: PostgreSQL, MongoDB, SQL/NoSQL data modeling, query optimization, and structured metadata management.
-
-Testing & Debugging: Unit and integration testing using Jest, React Testing Library, and Postman.
-
-Cloud & DevOps: Microsoft Azure (Container Apps, Blob Storage, Cognitive Services), Docker-based containerization, Git/GitHub version control, and production-ready deployment pipeline design, AWS
-
+I specialize in production RAG pipelines, agentic AI workflows, and LLM integrations, with hands-on experience across Django REST Framework, FastAPI, Flask, and cloud deployments on Azure and AWS.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-• Hugging Face Computer Vision Agent (PyTorch + Gradio + Hugging Face Spaces): Built and deployed an NTS-Net fine-grained bird classification agent with live demo + public API.
+**Backend & API**
+`Python` `Django REST Framework` `FastAPI` `Flask + SQLAlchemy` `Node.js` `Express.js` `JWT` `RBAC`
 
-• AI Document Intelligence Platform (Django REST Framework + OpenAI API + JWT + Swagger): Built a backend system for secure PDF upload, text extraction, and conversational querying using a custom RAG pipeline with embeddings-based semantic search and LLM response generation, structured with modular architecture and production-ready API documentation.
+**Frontend & UI**
+`React.js` `Next.js` `TypeScript` `JavaScript (ES6+)` `Redux` `HTML5/CSS3` `Jest`
 
-•AutrakAI : Developed an AI agent marketplace using React.js and TypeScript, enabling secure discovery, installation, and management of intelligent agents.Built Node.js and Express backend APIs supporting agent workflows, RBAC authentication, and scalable AI-driven services.Implemented RAG-style semantic retrieval, vector-based search pipelines for intelligent agent interaction & metadata querying.
+**AI & ML**
+`LangChain` `LangGraph` `RAG Pipelines` `pgvector` `OpenAI API` `AWS Bedrock` `Ollama` `Prompt Engineering` `Fine-tuning`
 
+**Databases**
+`PostgreSQL` `MongoDB` `Redis` `pgvector` `SQL/NoSQL Modeling`
+
+**Cloud & DevOps**
+`Azure (Container Apps, Blob Storage)` `AWS (S3, SQS, Bedrock)` `Docker` `Kafka` `GitHub Actions` `CI/CD Pipelines`
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Featured Projects
 
-- **GitHub:** https://github.com/Archana544  
-- **LinkedIn:** https://www.linkedin.com/in/archana-chukkannagari-45aa951b9/ 
-- **Email:** archanach544@gmail.com
+### 🤖 AI Document Intelligence Platform
+`Django REST` `FastAPI` `Flask` `SQLAlchemy` `OpenAI` `React` `Azure` `Docker`
+
+Full-stack RAG pipeline for secure PDF upload, text extraction, and conversational querying — handling chunking, embedding generation, vector storage, semantic retrieval, and OpenAI-powered response generation end-to-end in production. JWT-secured modular backend with role-based access across Django, FastAPI, and Flask service layers, containerized with Docker and deployed to Azure with Swagger docs and CI/CD pipelines.
 
 ---
 
-⭐ *Always building. Always learning. Always improving.*
+### 🏪 AI Agent Marketplace — Chamera
+`React.js` `Node.js` `Express` `Supabase` `Ollama`
+
+Secure AI OS and marketplace with on-device agent execution, capability-based access control, and policy-enforced IPC. Backend services for agent lifecycle management, LLM orchestration via Ollama, and streaming agentic workflows with RBAC across the full stack.
+
+> 🔗 [View Repository](https://github.com/Archana544)
+
+---
+
+### 🐦 Hugging Face Computer Vision Agent
+`PyTorch` `Gradio` `Hugging Face Spaces`
+
+Deployed an NTS-Net fine-grained bird classification agent with live Gradio demo and public API on Hugging Face Spaces.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| AI Platform Engineer (Co-op) | George Brown Polytechnic College | Aug 2025 – Dec 2025 |
+| Associate Software Engineer | XRG Consulting Pvt Ltd | Apr 2023 – Apr 2024 |
+| Junior Server Developer | XRG Consulting Pvt Ltd | Mar 2022 – Mar 2023 |
+
+---
+
+## 🎓 Education
+
+**Post-Graduate Diploma — Mobile Applications Development**
+George Brown College, Toronto, ON · 2024 – 2025
+
+**Bachelor of Electronics and Communication Engineering**
+MGIT, India · 2017 – 2021
+
+---
+
+## 📜 Certifications
+
+- HuggingFace Agents Course
+- Google Generative AI for Developers
+
+---
+
+## 📊 GitHub Stats
+
+![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archana544&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana544&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/archana-chukkannagari-45aa951b9)
+- 🌐 [Portfolio](https://archanaportfolio-ruby.vercel.app/)
+- 📧 archanach544@gmail.com
+- 🐙 [GitHub](https://github.com/Archana544)
