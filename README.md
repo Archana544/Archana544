@@ -41,10 +41,14 @@ AI Platform Engineer (Contract full-time) | Greater New York Insurance Companies
 •  Extended Django REST/PostgreSQL with FastAPI + SQLAlchemy for async agent work, with JWT/role-based authorization. 
 •  Deployed services using Azure CI/CD pipelines, with Azure Blob Storage for document and artifact storage. 
 •  Built React interfaces for upload, summary review, and reviewer flagging feeding the eval loop.
+
+
 Associate Software Engineer | XRG Consulting Pvt Ltd, Hyderabad, India (Apr 2023 – Dec 2023)
 • Owned end-to-end delivery of React.js dashboards processing 1M+ data points across 50+ cloud services, from design to deployment 
 • Built scalable backend APIs and async data pipelines using Python (Django) and Node.js, enabling real-time data aggregation 
 • Improved production performance by 35% through query optimization, API redesign and load aware caching.
+
+
 Junior Server Developer | XRG Consulting Pvt Ltd, Hyderabad, India (October 2021 – Mar 2023)
 • Developed and shipped backend microservices and REST APIs in Python supporting high-concurrency OTT platforms 
 • Improved live API performance by 40% via caching layers and database query optimization applied directly to production workloads. 
