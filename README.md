@@ -25,7 +25,11 @@ Cloud & DevOps: Azure (Container Apps, Blob Storage), AWS (S3, SQS), Docker, Kaf
 ## 🚀 Featured Projects
 
 •AI Document Intelligence Platform (Django REST Framework + OpenAI + React + Azure + Docker + RAGAS): Built a full-stack RAG pipeline for secure PDF upload, OCR/image extraction, chunking, embedding, vector storage, multi-hop retrieval  and conversational querying with OpenAI-powered generation, deployed end-to-end in production. Designed a JWT-secured, role-based backend across Django, FastAPI,, containerized with Docker and deployed to Azure with Swagger docs and CI/CD. Added input/output guardrails (prompt-injection detection, PII filtering, confidence-threshold gating), RAGAS-based evaluation, and OpenTelemetry/Phoenix tracing for observability.
+
+
 •Ambient Email Agent (Python + LangGraph + LangChain + Gemini + LangSmith): Built an ambient, tool-calling email assistant using LangGraph state machines with conditional routing, autonomous triage classification, and human-in-the-loop approval via interrupt/resume checkpoints for high-stakes actions (send email, schedule meeting). Implemented persistent short- and long-term agent memory across sessions, integrated LangSmith for automated eval test suites (tool-call accuracy, response quality) and full execution tracing and swapped the reference OpenAI stack for Gemini across LLM calls, structured tool binding, evaluation judges.
+
+
 •`PyTorch` `Gradio` `Hugging Face Spaces`.Deployed an NTS-Net fine-grained bird classification agent with live Gradio demo and public API on Hugging Face Spaces.
 
 ---
